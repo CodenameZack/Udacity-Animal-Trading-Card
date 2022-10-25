@@ -1,0 +1,33 @@
+
+.card{
+  padding: 10px;
+  width: 300px;
+  border: 1px solid lightGray;
+  box-shadow: 5px 5px lightGray;
+}
+
+.title{
+  border: 1px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image{
+  width: 300px;
+}
+
+.info{
+  border: 1px solid lightGray;
+  padding: 5px;
+  margin: 0px;
+}
+
+.list{
+  list-style: none;
+  padding: 0px;
+}
+
+span{
+  font-weight: bold;
+}
